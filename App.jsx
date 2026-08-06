@@ -10,7 +10,7 @@ import Footer from "./pages/Footer/Footer"
 function App() {
   return (
     <>
-      <Header />
+    </Header>
 
       <Hero />
       <About />
