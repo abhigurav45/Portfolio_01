@@ -1,4 +1,4 @@
-import Header from "./components/Header"
+ 
 
  import Hero from "./pages/Hero/Hero"
 import About from "./pages/About/About"
