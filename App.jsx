@@ -16,6 +16,8 @@ import Footer from "./pages/Footer/Footer"
       <About />
        <Project />
       <Services />
+         <Contact />
+
        <Footer />
     </>
   )
