@@ -11,7 +11,6 @@ import Footer from "./pages/Footer/Footer"
   return (
     <>
     </Header>
-
       <Hero />
       <About />
        <Project />
