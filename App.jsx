@@ -13,8 +13,7 @@
   return (
     <>
     
-       <Services />
-         <Contact />
+b          <Contact />
 
        <Footer />
     </>
