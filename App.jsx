@@ -14,8 +14,7 @@
     <>
     
    
-      <About />
-       <Project />
+        <Project />
       <Services />
          <Contact />
 
