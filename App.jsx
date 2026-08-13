@@ -12,7 +12,7 @@
   
   return (
     <>
-    </Header>
+    </ >
       <Hero />
       <About />
        <Project />
