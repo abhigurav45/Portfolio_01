@@ -13,7 +13,7 @@
   return (
     <>
     
-      <Hero />
+   
       <About />
        <Project />
       <Services />
