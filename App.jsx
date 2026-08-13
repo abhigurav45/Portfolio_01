@@ -6,7 +6,7 @@
  import Contact from "./pages/Contact/Contact"
  import Footer from "./pages/Footer/Footer"
 
-  function App() {
+ 
 
   
  
