@@ -16,6 +16,7 @@
       <About />
        <Project />
       <Services />
+    
          <Contact />
 
        <Footer />
