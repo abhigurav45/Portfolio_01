@@ -22,6 +22,7 @@
        <Footer />
     </>
   )
+    
 }
 
 export default App
