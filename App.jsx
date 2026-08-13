@@ -11,9 +11,13 @@
   
   
   return (
-    <>
-    
- 
+   </Header>
+      <Hero />
+      <About />
+       <Project />
+      <Services />
+         <Contact />
+
        <Footer />
     </>
   )
