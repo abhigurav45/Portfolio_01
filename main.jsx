@@ -2,8 +2,6 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
 
-s
-
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
