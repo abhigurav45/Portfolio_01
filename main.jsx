@@ -6,8 +6,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
     
-createRoot(document.getElementById('root')).render(
- 
+createRoot(document.getElementById('root')).render
 
      </StrictMode>,
   </StrictMode>,
