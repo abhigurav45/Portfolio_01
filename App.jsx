@@ -7,8 +7,7 @@
  import Contact from "./pages/Contact/Contact"
  
  
-    function App() 
-  
+   
   return (
    </Header>
       <Hero />
