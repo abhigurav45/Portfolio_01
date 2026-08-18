@@ -8,7 +8,6 @@
   import Footer from "./pages/Footer/Footer"
 
   import Footer from "./pages/Footer/Footer"
-
    
   return (
    </Header>
