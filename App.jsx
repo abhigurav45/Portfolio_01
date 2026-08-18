@@ -1,4 +1,5 @@
 
+
  import Hero from "./pages/Hero/Hero" 
  import About from "./pages/About/About"
  import Project from "./pages/Project/Project"
@@ -9,7 +10,6 @@
   import Footer from "./pages/Footer/Footer"
   return (
    </Header>
-    
       <Hero />
       <About />
        <Project />
