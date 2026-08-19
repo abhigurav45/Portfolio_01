@@ -6,7 +6,7 @@
  import Services from "./pages/Services/Services"
  import Contact from "./pages/Contact/Contact"
 
-  import Footer from "./pages/Footer/Footer"
+  import Footer frm "./pages/Footer/Footer"
   import Footer from "./pages/Footer/Footer"
   return (
    </Header>
