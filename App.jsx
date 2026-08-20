@@ -8,7 +8,6 @@ s
  import Contact from "./pages/Contact/Contact"
   import Footer frm "./pages/Footer/Footer"
 
-
   import Footer from "./pages/Footer/Footer"
   return (
    </Header>
