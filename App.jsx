@@ -8,7 +8,7 @@ s
   import Footer frm "./pages/Footer/Footer"
   import Footer from "./pages/Footer/Footer"
   return (
-    
+  
    </Header>
     
       <Hero />
