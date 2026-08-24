@@ -7,6 +7,17 @@ createRoot(document.getElementById('root')).render(
     createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
+    import App from './App.jsx'
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <App />
+    createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <App />
+
+     </StrictMode>,
+  </StrictMode>,
+)
 
      </StrictMode>,
   </StrictMode>,
