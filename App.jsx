@@ -7,7 +7,8 @@ import Hero from "./pages/Hero/Hero"
   import Footer frm "./pages/Footer/Footer"
   import Footer from "./pages/Footer/Footer"
   return (
-  
+
+   
    </Header>
       <Hero />
       <About />
