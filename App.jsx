@@ -9,7 +9,7 @@ import Hero from "./pages/Hero/Hero"
 
 
 s
-s
+
 
   return (
    </Header>
