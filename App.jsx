@@ -9,8 +9,6 @@ import Hero from "./pages/Hero/Hero"
 
 
 
-
-
   return (
    </Header>
       <Hero />
