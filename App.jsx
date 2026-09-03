@@ -6,7 +6,6 @@ import Hero from "./pages/Hero/Hero"
  import Contact from "./pages/Contact/Contact"
   import Footer frm "./pages/Footer/Footer"
 
-
   return (
    </Header>
       <Hero />
