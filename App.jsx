@@ -7,6 +7,7 @@ import Hero from "./pages/Hero/Hero"
   import Footer frm "./pages/Footer/Footer"
   return (
    
+   
    </Header>
       <Hero />
       <About />
