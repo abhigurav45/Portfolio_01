@@ -10,7 +10,7 @@ import Hero from "./pages/Hero/Hero"
 
    
    
-   
+ 
    </Header>
       <Hero />
       <About />
