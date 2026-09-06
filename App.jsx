@@ -18,7 +18,6 @@ import Hero from "./pages/Hero/Hero"
        <Footer />
     </>
   )
-    
 }
 
 export default App
