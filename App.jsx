@@ -14,7 +14,6 @@ import Hero from "./pages/Hero/Hero"
       <About />
        <Project />
       <Services />
-   
          <Contact />
 
        <Footer />
