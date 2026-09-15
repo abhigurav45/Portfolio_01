@@ -16,4 +16,5 @@ import Hero from "./pages/Hero/Hero"
   )
 }
 
+
 export default App
