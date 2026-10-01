@@ -9,7 +9,7 @@ import Hero from "./pages/Hero/Hero"
       <Hero />
       <About />
      
-     
+    
        <Project />
       <Services />
          <Contact /
