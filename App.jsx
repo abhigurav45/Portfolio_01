@@ -8,7 +8,6 @@ import Hero from "./pages/Hero/Hero"
     </Header>S
       <Hero />
       <About />
-    
        <Project />
       <Services />
          <Contact /
