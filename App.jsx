@@ -7,6 +7,8 @@ eimport Hero from "./pages/Hero/Hero"
   import Footer from "./pages/Footer/Footer"
   return 
     </Header>S
+
+     
       <Hero />
     
       <About />
