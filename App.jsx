@@ -7,6 +7,7 @@ eimport Hero from "./pages/Hero/Hero"
  import Contact from "./pages/Contact/Contact"
   import Footer from "./pages/Footer/Footer"
   return 
+
     </Header>Ss
      
       <Hero />
