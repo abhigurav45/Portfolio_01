@@ -9,7 +9,7 @@ eimport Hero from "./pages/Hero/Hero"
   return 
     </Header>Ss
     
-      <Hero /> 
+      <Hero />
       <About />
      
        <Project />
